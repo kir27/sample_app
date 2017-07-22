@@ -1,0 +1,1 @@
+sample_app form Michael Hurtl`s Rails tutorial
